@@ -1,0 +1,8 @@
+/.project
+*.idea
+*.iml
+*.jar
+*.pyc
+target
+.cache
+__pycache__
